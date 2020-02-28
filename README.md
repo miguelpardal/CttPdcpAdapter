@@ -43,9 +43,9 @@ The XML files contain valid SOAP requests and can be edited.
 ## Authors
 
 * [Miguel Pardal](https://github.com/miguelpardal)
-* Sérgio Guerreiro
+* SÃ©rgio Guerreiro
 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
