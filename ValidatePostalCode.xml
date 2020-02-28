@@ -1,0 +1,8 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ctt="http://www.ctt.pt/pdcp">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <ctt:validatePostalCode>
+         <arg0>1000-001</arg0>
+      </ctt:validatePostalCode>
+   </soapenv:Body>
+</soapenv:Envelope>

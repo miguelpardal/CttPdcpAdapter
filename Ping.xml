@@ -1,0 +1,8 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ctt="http://www.ctt.pt/pdcp">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <ctt:ping>
+         <arg0>friend</arg0>
+      </ctt:ping>
+   </soapenv:Body>
+</soapenv:Envelope>
